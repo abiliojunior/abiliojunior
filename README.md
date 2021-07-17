@@ -23,3 +23,28 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+## **GitHub Statistics**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiliojunior&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=abiliojunior&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+![pv](https://pageview.vercel.app/?github_user=abiliojunior)
+
+[website]: https://glailton.github.io/
+[instagram]: https://www.instagram.com/abiliojunior/
+[linkedin]: https://www.linkedin.com/in/abiliojunior/
+<br>
+
+#### Sociai Networks!
+
+🏡 [website][website] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
