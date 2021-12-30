@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
 [website]: https://abiliojunior.github.io/
 [instagram]: https://www.instagram.com/abiliojunior/
+[twitter]: https://twitter.com/abiliojunior
 [linkedin]: https://www.linkedin.com/in/abiliojunior/
 <br>
 
@@ -47,4 +48,5 @@ Here are some ideas to get you started:
 
 🏡 [website][website] **|** 
 📷 [instagram][instagram] **|** 
+:baby_chick: [twitter][twitter] **|** 
 👔 [linkedin][linkedin]
