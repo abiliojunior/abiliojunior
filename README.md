@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Foundryvtt development.
+- 🔭 I’m currently working with Control Automation development.
 - 🌱 I’m currently learning Foundryvtt development.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Control Automation and IoT technologies.
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+
 
 
 
